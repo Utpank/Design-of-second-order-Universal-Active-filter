@@ -27,11 +27,6 @@ Second Order Universal Active filter for Q = 1 and wo = 1K rad/sec designed in L
 
 
 
-Second Order Universal Active filter for Q = 10 and wo = 10K designed in LTspice is shown as:
-
-
-![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/28577b8e-97fd-4d8c-a44b-80a8a096ee18)
-
 
 
 ![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/617e2cb3-9725-4b48-97a2-65f31f0633cf)
