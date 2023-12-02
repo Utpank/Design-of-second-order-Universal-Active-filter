@@ -23,9 +23,7 @@ Design with MATLAB
 Second Order Universal Active filter for Q = 1 and wo = 1K rad/sec designed in LTspice is shown as:
 
 
-![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/87550a72-13e2-4edd-a529-a8aa9b306c8f)
-
-
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/124f101a-2200-4999-9dab-8b104c021fde)
 
 
 
