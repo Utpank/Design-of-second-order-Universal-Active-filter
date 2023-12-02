@@ -33,7 +33,9 @@ Second Order Universal Active filter for Q = 1 and wo = 1K rad/sec designed in L
 Designed circuit on simulation level were implemented in Hardware as shown below:
 
 
-![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/c9562425-a9f9-4cd3-aee0-83e747cd1aed)
+
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/da2cb83e-3e44-411d-942a-724a0afc4aab)
+
 
 
 
