@@ -27,7 +27,39 @@ Second Order Universal Active filter for Q = 1 and wo = 1K rad/sec designed in L
 
 
 
-![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/6ead178d-2319-4f3e-a6d5-5106c9b32e8c)
+Second Order Universal Active filter for Q = 10 and wo = 10K designed in LTspice is shown as:
+
+
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/28577b8e-97fd-4d8c-a44b-80a8a096ee18)
+
+
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/617e2cb3-9725-4b48-97a2-65f31f0633cf)
+
+
+Designed circuit on simulation level were implemented in Hardware as shown below:
+
+
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/6b2612f9-b8ac-4c07-a205-ad2a8c17dadb)
+
+
+![image](https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/9bf09891-bb0b-40c7-859c-67ce805d84ca)
+
+
+<img width="586" alt="image" src="https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/d7e5a299-13a2-44d5-9dce-51fd600c34bd">
+
+
+<img width="578" alt="image" src="https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/b1d338dd-4635-412f-a4a8-e421db5e1bc7">
+
+
+<img width="583" alt="image" src="https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/6823e574-f8c7-4459-8b06-c3faedfc7730">
+
+
+<img width="581" alt="image" src="https://github.com/Utpank/Design-of-second-order-Universal-Active-filter/assets/98480443/49524117-a039-4824-99ea-2ed4c07946c8">
+
+
+
+
+
 
 
 
